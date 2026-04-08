@@ -1,4 +1,4 @@
-# TicketFlow API 🎟️
+# TicketFlow API 
 
 Plataforma de compra e venda de ingressos desenvolvida como projeto de portfólio.
 
